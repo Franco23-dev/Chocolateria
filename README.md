@@ -1,6 +1,6 @@
-- Se ha realizadi una limpieza de datos de una base de datos sacada de la pagina Kaggle donde se muestran diversos valores que tienen que ver con la venta de chocolates
+- Se ha realizado una limpieza de datos de una base de datos sacada de la pagina Kaggle donde se muestran diversos valores que tienen que ver con la venta de chocolates.
 - Se le ha hecho una limpieza de datos para darle la estructura que le corresponde.
 - Tambien se le han añadidos nuevas columnas para la realizacion de el dashboard y tener una mayor visualizacion de informacionque ayudara a ver las ganancias y perdidas que puede llegar a tener esta tienda de chocolates.
-- Todo el trabajo a sido realizado usando solo Excel
+- Todo el trabajo a sido realizado usando solo Excel.
 - La base de datos fue sacada del siguiente link:
 - https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
